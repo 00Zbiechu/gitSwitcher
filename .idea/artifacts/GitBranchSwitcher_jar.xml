@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GitBranchSwitcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GitBranchSwitcher_jar</output-path>
+    <root id="archive" name="GitBranchSwitcher.jar">
+      <element id="module-output" name="GitBranchSwitcher" />
+    </root>
+  </artifact>
+</component>

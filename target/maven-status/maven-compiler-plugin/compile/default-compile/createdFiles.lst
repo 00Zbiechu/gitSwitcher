@@ -1,0 +1,14 @@
+controlversion\ControlVersionController$ActionListenerForVersionDialog.class
+amendcommit\AmendController$ActionListenerForAmend.class
+changebranch\Controller$actionListenerForView$BranchActionListener.class
+controlversion\ControlVersionView.class
+amendcommit\AmendModel.class
+changebranch\View.class
+controlversion\ControlVersionModel.class
+amendcommit\AmendView.class
+amendcommit\AmendController.class
+changebranch\Controller$actionListenerForView.class
+Application.class
+controlversion\ControlVersionController.class
+changebranch\Controller.class
+changebranch\Model.class
